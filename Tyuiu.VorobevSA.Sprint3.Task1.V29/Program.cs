@@ -39,7 +39,7 @@ namespace Tyuiu.VorobevSA.Sprint3.Task1.V29
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine("Произведение ряда=" + service1.GetMultiplySeries(x, q, w);
+            Console.WriteLine("Произведение ряда=" + service1.GetMultiplySeries(x, q, w));
             Console.ReadKey();
         }
     }

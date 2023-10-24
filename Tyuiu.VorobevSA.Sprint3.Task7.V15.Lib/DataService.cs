@@ -12,7 +12,7 @@ namespace Tyuiu.VorobevSA.Sprint3.Task7.V15.Lib
     {
         public double[] GetMassFunction(int startValue, int stopValue)
         {
-            double[] valueArray;
+            double[]  valueArray;
             int len = (stopValue - startValue) + 1;
             valueArray = new double[len];
             double y=0;
